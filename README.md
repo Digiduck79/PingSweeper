@@ -14,16 +14,16 @@ the python file in this repo is the source code aswell.
 only thing done to this python file to create a .exe file for windows is:
 
 created a .venv in python 3.12.8 with command:
-    python -m venv venv
+    "python -m venv venv"
 
 then opend the venv and installed the ping3 library.
-    pip install ping3
+    "pip install ping3"
 
 then i installed pyinstaller.
-    pip install pyinstaller
+    "pip install pyinstaller"
 
 then i created the PingSweep.exe file with command:
-    pyinstaller --onefile PingSweep.py
+    "pyinstaller --onefile PingSweep.py"
 
 A simple small tool which helps detecting certain devices online in your network. if which you might know the ports supposed to be open. 
 
