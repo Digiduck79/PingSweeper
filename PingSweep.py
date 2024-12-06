@@ -11,17 +11,20 @@ timeout = 1
 
 # ASCII Art for "Action ipscan"
 ascii_art = """
-      .aMMMb  .aMMMb dMMMMMMP dMP .aMMMb  dMMMMb
-     dMP"dMP dMP"VMP   dMP   amr dMP"dMP dMP dMP
-    dMMMMMP dMP       dMP   dMP dMP dMP dMP dMP
-   dMP dMP dMP.aMP   dMP   dMP dMP.aMP dMP dMP
-  dMP dMP  VMMMP"   dMP   dMP  VMMMP" dMP dMP
 
-      dMP dMMMMb  .dMMMb  .aMMMb  .aMMMb  dMMMMb
-     amr dMP.dMP dMP" VP dMP"VMP dMP"dMP dMP dMP
-    dMP dMMMMP"  VMMMb  dMP     dMMMMMP dMP dMP
-   dMP dMP     dP .dMP dMP.aMP dMP dMP dMP dMP
-  dMP dMP      VMMMP"  VMMMP" dMP dMP dMP dMP
+      __________.__                     
+      \______   \__| ____    ____       
+       |     ___/  |/    \  / ___\      
+       |    |   |  |   |  \/ /_/  >     
+       |____|   |__|___|  /\___  /      
+                        \//_____/       
+  _________                             
+ /   _____/_  _  __ ____   ____ ______  
+ \_____  \\ \/ \/ // __ \_/ __ \\____ \ 
+ /        \\     /\  ___/\  ___/|  |_> >
+/_______  / \/\_/  \___  >\___  >   __/ 
+        \/             \/     \/|__|    
+
 """
 
 
