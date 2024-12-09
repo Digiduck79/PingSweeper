@@ -1,4 +1,4 @@
-#PingSweeper project. 
+#PingSweeper project.# 
 
 this is a Python program, designed to ping a subnet. scan for open ports defined with following archuments all done via commandline:
   -p      specify ports seperated with a "," 
