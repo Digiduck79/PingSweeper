@@ -16,7 +16,7 @@ only thing done to this python file to create a .exe file for windows is:
 - created a .venv in python 3.12.8 with command:
     `python -m venv venv`
 
-- then opend the venv and installed the ping3 library.
+- then opened the venv and installed the ping3 library.
     `pip install ping3`
 
 - then i installed pyinstaller.
